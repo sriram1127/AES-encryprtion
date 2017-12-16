@@ -1,0 +1,21 @@
+AES Encrpytion (Advanced Encryption Standard)
+64Base Encoding and Decoding 
+Cipher
+128 key
+everything in terms of byte[]
+
+classes
+
+KeyGenerator 
+Cipher
+SecretKey 
+SecretKeySpec
+Base64
+Encoder
+Decoder
+String
+
+
+
+	key		 Base64
+text --------> Encrypt ----------> Encode -------> String   ===========   String 
